@@ -5,6 +5,7 @@ import Features from '../components/Features';
 import Benefits from '../components/Benefits';
 import Faq from '../components/Faq';
 import Footer from '../components/Footer';
+import OurFeatures from '../components/OurFeatures';
 
 const Home = () => {
   return (
